@@ -88,15 +88,15 @@ div.input_area {
   border-radius: 0px;
   border: 1px solid #464b50;
 }
-div.output_area pre {font-weight: normal; color: #3e3e3e;}
-div.output_subarea {font-weight: normal; color: #3e3e3e; background-color:#d2d1d2;}
+div.output_area pre {font-weight: normal; color: #1d1f21;}
+div.output_subarea {font-weight: normal; color: #1d1f21; background-color:#d2d1d2;}
 
 .rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
-  border: 1px  #a7a7a7 solid;
-    color: #a7a7a7;
+  border: 1px  #1d1f21 solid;
+    color: #1d1f21;
 }
 div.output_html { font-family: sans-serif; }
-table.dataframe tr {border: 1px #a7a7a7;}
+table.dataframe tr {border: 1px #1d1f21;}
 
 div.cell.selected {border-radius: 0px;}
 div.cell.edit_mode {border-radius: 0px; border: thin solid #9b859d;}
