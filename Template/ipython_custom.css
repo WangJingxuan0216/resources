@@ -137,4 +137,4 @@ div.output_stderr pre {color: #c3c3c3;}
 .cm-s-ipython span.cm-tag {color: #cf6a4c;}
 .cm-s-ipython span.cm-link {color: #9b859d;}
 
-.cm-s-ipython .CodeMirror-matchingbracket { text-decoration: underline; color: #c3c3c3 !im
+.cm-s-ipython .CodeMirror-matchingbracket { text-decoration: underline; color: #c3c3c3 !important}
